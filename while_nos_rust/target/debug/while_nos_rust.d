@@ -1,0 +1,1 @@
+/u/students/smishky/PL_ex3/while_nos_rust/target/debug/while_nos_rust: /u/students/smishky/PL_ex3/while_nos_rust/src/ast.rs /u/students/smishky/PL_ex3/while_nos_rust/src/main.rs /u/students/smishky/PL_ex3/while_nos_rust/src/nos.rs /u/students/smishky/PL_ex3/while_nos_rust/src/semantics.rs
